@@ -1,0 +1,1 @@
+Ce projet implémente un service web de calculatrice permettant d’effectuer des opérations arithmétiques (addition, soustraction, multiplication, division) via le protocole SOAP. Le dossier captures contient les images des tests réalisés avec SoapUI pour vérifier le bon fonctionnement du service.
